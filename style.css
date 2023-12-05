@@ -1,0 +1,44 @@
+#corpo {
+    text-align: center;
+    background: linear-gradient(90deg, #d62828, #f77f00, #fcbf49, #eae2b7);
+}
+
+#londonBridge {
+
+    width: 100%;
+    
+}
+
+
+
+#londonBridge:hover {
+
+  opacity: 0.8;
+  transition:1s all;
+    
+}
+
+
+
+.divCartao {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+  .cardImg{
+
+
+    width: 285px;
+  }
+
+
+  .cardImg:hover{
+
+opacity: 1;
+transition: 1s;
+ 
+  }
